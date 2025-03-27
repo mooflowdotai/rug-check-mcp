@@ -1,7 +1,7 @@
 [project]
 name = "rug-check-mcp"
 version = "0.1.0"
-description = "An MCP server that detects potential risks in Solana meme tokens."
+description = "An MCP server that detects potential rug pull risks in Solana meme tokens."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
