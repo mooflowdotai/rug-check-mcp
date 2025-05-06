@@ -4,6 +4,7 @@ An MCP server that detects potential risks in Solana meme tokens, helping AI age
 
 ![License](https://img.shields.io/github/license/kukapay/rug-check-mcp)
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
+[![smithery badge](https://smithery.ai/badge/@kukapay/rug-check-mcp)](https://smithery.ai/server/@kukapay/rug-check-mcp)
 
 ## Features
 
@@ -17,6 +18,15 @@ An MCP server that detects potential risks in Solana meme tokens, helping AI age
 
 ## Installation
 
+### Installing via Smithery
+
+To install Rug Check for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@kukapay/rug-check-mcp):
+
+```bash
+npx -y @smithery/cli install @kukapay/rug-check-mcp --client claude
+```
+
+### Manual Installation
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/kukapay/rug-check-mcp.git
